@@ -19,7 +19,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "DUHABI | Digital Archive of Information",
   description: "Digital Archive of Information",
-  metadataBase: new URL('https://bhadrapur.com'),
+  metadataBase: new URL('https://duhabi.com'),
 };
 
 
